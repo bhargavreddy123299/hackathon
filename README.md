@@ -1,4 +1,4 @@
-# POGO ticket booking
+# PRGO ticket booking
 
 A full-stack event ticket booking starter built with Node.js and vanilla HTML, CSS and JavaScript. No external packages are required.
 
